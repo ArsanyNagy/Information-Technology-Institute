@@ -3708,9 +3708,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Information-Technology-Institute\\Oauth API\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
-      "projectName": "ClassLibrary1",
-      "projectPath": "D:\\Information-Technology-Institute\\Oauth API\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectUniqueName": "D:\\Information-Technology-Institute\\Oauth API\\ClassLibrary1\\ClassLibrary1\\DataLayer.csproj",
+      "projectName": "DataLayer",
+      "projectPath": "D:\\Information-Technology-Institute\\Oauth API\\ClassLibrary1\\ClassLibrary1\\DataLayer.csproj",
       "outputPath": "D:\\Information-Technology-Institute\\Oauth API\\ClassLibrary1\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
